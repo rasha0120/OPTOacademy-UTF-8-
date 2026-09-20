@@ -3,3 +3,4 @@ pandas
 reportlab
 arabic-reshaper
 python-bidi
+assets/fonts/: ضعي فيه Amiri-Regular.ttf وAmiri-Bold.ttf
